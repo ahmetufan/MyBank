@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261248893619",
+    "project_id": "mybank-7ca3a",
+    "storage_bucket": "mybank-7ca3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261248893619:android:4111c642de6bdc8ef5a6c6",
+        "android_client_info": {
+          "package_name": "com.ahmet.mybank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261248893619-lnk658f4tlbona5mi48sn36k51evjh9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE8YbpTR2HdD1_AaObM3QyGgWnoVwlYL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261248893619-lnk658f4tlbona5mi48sn36k51evjh9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
